@@ -1,0 +1,8 @@
+INFO Application started
+INFO User logged in
+WARNING Disk space low
+ERROR Failed to connect to database
+INFO Data processed successfully
+WARNING High memory usage
+ERROR Timeout while accessing API
+INFO Application stopped
